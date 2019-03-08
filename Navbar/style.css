@@ -1,0 +1,33 @@
+.navbar li {
+    display: inline-block;
+    text-align: center;
+  }
+  
+  .score {
+    padding-right: 10px;
+  }
+  
+  .wins {
+    padding-right: 10px;
+  }
+  
+  .losses {
+    padding-right: 10px;
+  }
+  
+  .navbar {
+    background: #420242;
+    box-shadow: 0 3px 6px rgba(123, 4, 179, 0.534), 0 3px 6px rgb(158, 50, 230);
+    margin: auto;
+  }
+  
+  li {
+    color: #e4a8f0;
+    padding: 15px 0;
+  }
+  
+  body {
+    font-size: 24px;
+    background: #6d1d6d;
+  }
+  
