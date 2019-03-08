@@ -1,0 +1,12 @@
+.title {
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+    text-decoration: underline;
+    color: white;
+    margin-bottom: 50px;
+  }
+  
+  .titlep {
+    text-decoration: none;
+  }
